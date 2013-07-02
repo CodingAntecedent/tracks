@@ -10,6 +10,7 @@ This file is designed to help you find readings for the topic of the day. If you
 Suggested Readings:
 
 * (Sinatra tutorial)[http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra/]
+* (Sinatra blog with live heroku app examples)[http://ididitmyway.herokuapp.com/]
 
 2\. Be able to create Rails projects in under 3 minutes
 2\. Be able to deploy to heroku
